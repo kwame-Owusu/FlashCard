@@ -1,8 +1,8 @@
 # FlashCard
 
-a flash card created using a combination of tkinter and customtkinter.
-using the flash card technique one can learn certain words of a language that they are not quite good at remembering.
-for in this case it is just to brush up on my Italian, although i can still speak it fluently 😂
+a flash card gui app created using a combination of tkinter and customtkinter.
+using the flash card technique one can learn certain words (not only limited to languages) of a language that they are not quite good at remembering.
+in this case it is just to brush up on my Italian, although i can still speak it fluently 😂
 
 ![image](https://github.com/kwame-Owusu/FlashCard/assets/98961379/70a18267-18b5-4231-bf7a-e73abd65e9c4)
 
